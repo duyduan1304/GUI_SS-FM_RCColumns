@@ -1,0 +1,5 @@
+Step 1: Make a new folder (C:/GUI_tool)
+Step 2: Open MATLAB
+Step 3: Set Path to the GUI_tool folder
+Step 4: Type GUI_tool in the Command Prompt of MATLAB to use this tool.
+Enjoy!
